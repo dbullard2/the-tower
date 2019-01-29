@@ -1,0 +1,5 @@
+apartment system -----------------------------------------
+
+if apartments are not occupied, new tenants will pathfind to them, and the occupied bool will turn from true to false
+
+----------------------------------------------------------

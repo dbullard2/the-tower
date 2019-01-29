@@ -53,7 +53,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshLink.cs" />
+     <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshModifier.cs" />
+     <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshModifierVolume.cs" />
+     <Compile Include="Assets\NavMeshComponents\Scripts\NavMeshSurface.cs" />
+     <Compile Include="Assets\scripts\apartment.cs" />
+     <Compile Include="Assets\scripts\apartmentManager.cs" />
      <Compile Include="Assets\scripts\cameraControl.cs" />
+     <Compile Include="Assets\scripts\controller.cs" />
+     <Compile Include="Assets\scripts\npc.cs" />
+     <Compile Include="Assets\scripts\spawner.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>/home/myro/skyscraper/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>

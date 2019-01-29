@@ -40,7 +40,6 @@ public class cameraControl : MonoBehaviour {
 
 		if(Input.GetMouseButtonDown(2)){
 			lastPosition = Input.mousePosition;
-			Debug.Log(lastPosition);
 		}
 
 		if(Input.GetMouseButton(2)){
